@@ -1,0 +1,11 @@
+//create database 
+
+// Import database on your pc using following command.
+mysql -u root -p -h localhost DATA-BASE-NAME < BillShare.sql
+PS : change path of the pictures.
+
+//now you are ready to use BillShare!
+
+Start using By running Splitster class first.
+
+Enjoy!!!!
